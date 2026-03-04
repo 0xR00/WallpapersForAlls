@@ -94,7 +94,7 @@
 ![](Wallpapers/nord_minimal_cat.png)
 ![](Wallpapers/venom.jpg)
 ![](Wallpapers/yellow-robot.png)
-![](Wallpapers/apple-pobre.png)
+![](Wallpapers/apple-pobre.jpg)
 ![](Wallpapers/zorin-magenta-blue.png)
 ![](Wallpapers/zorin-black-4k.png)
 ![](Wallpapers/windows-black.png)
